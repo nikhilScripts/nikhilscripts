@@ -1,54 +1,91 @@
 <h1 align="center">Hi, I'm Nikhil Kumar Gupta 👋</h1>
 <p align="center">
-🎓 Engineering Student (IT) | 💡 Machine Learning & Deep Learning Enthusiast  
+🎓 B.E. Information Technology @ UIET PU | 💡 AI/ML & Data Engineering Enthusiast  
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilScripts&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=nikhilScripts&theme=radical" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilScripts&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilScripts&theme=radical" height="160"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilScripts&theme=react-dark&hide_border=true">
+</p>
+
+---
+
+## 🐍 Contributions Snake
+![snake gif](https://github.com/nikhilScripts/nikhilScripts/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🚀 Skills & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,sql,pytorch,tensorflow,sklearn,flask,react,nodejs,mongodb,git,docker,azure,gcp,aws,vscode,postman" /><br>
+<img src="https://img.shields.io/badge/RAG-%230077B5.svg?&style=for-the-badge&logo=semanticweb&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-%23009639.svg?&style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-%2300ADD8.svg?&style=for-the-badge&logo=graph&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP-%23007ACC.svg?&style=for-the-badge&logo=protocols&logoColor=white"/>
+</p>
+
+---
+
+## 💼 Internships
+<details>
+<summary>Click to expand</summary>
+
+**AI Intern — Grazitti Interactive (Jun 2025 – Jul 2025)**  
+- Built Streamlit AI interview platform with speech I/O, GPT scoring, multi-round flows  
+- Integrated Gmail API for automated hiring communications  
+
+**Full Stack Intern — Tata Motors (Jun 2024 – Jul 2024)**  
+- Developed task management system for 200+ users with real-time chat and role-based access  
+</details>
+
+---
+
+## 🎓 Education
+- **B.E. Information Technology** — UIET PU (2022–2026) | CGPA: 7.06/10  
+- **12th CBSE** — 76.8% | **10th CBSE** — 91.6%
+
+---
+
+## 🏆 Achievements
+- 🥉 Bronze Medal, Men’s Doubles – 37th Chandigarh State Table Tennis Championships (2024)  
+- 🎓 Shraman Foundation Scholar (Top 24 students, 2023–2025)  
+
+---
+
+## 📜 Certifications
+- **McKinsey Forward Program** – Leadership & problem solving  
+- **AWS Solutions Architecture Job Simulation**  
+- **Google Cloud: Build AI Apps with Gemini & Imagen** (Vertex AI, RAG, generative AI)  
 
 ---
 
 ## 📂 Featured Projects
 
-### 🧠 Machine Learning & AI
+### 🧠 AI/ML & Data Science
 - [**Machine-learning**](https://github.com/nikhilScripts/Machine-learning) – Heart Disease Prediction, Loan Prediction, Big Mart Sales, Breast Cancer Prediction  
-- [**GenerativeAI**](https://github.com/nikhilScripts/GenerativeAI) – Generative AI implementations & tools  
-- [**Generative_Adversarial_Networks**](https://github.com/nikhilScripts/Generative_Adversarial_Networks) – GAN models in PyTorch  
-- [**Image-Segmentation**](https://github.com/nikhilScripts/Image-Segmentation) – Semantic & instance segmentation with PyTorch  
-- [**Transformers**](https://github.com/nikhilScripts/Transformers) – Step-by-step learning of Transformers
+- [**Stock_Prediction_ML_Dashboard**](https://github.com/nikhilScripts/Stock_Prediction_ML_Dashboard) – ML models (SVR, LSTM, RF, ElasticNet) with live data  
+- [**Image-Segmentation**](https://github.com/nikhilScripts/Image-Segmentation) – Semantic & instance segmentation in PyTorch  
+- [**GenerativeAI**](https://github.com/nikhilScripts/GenerativeAI) – RAG, LangChain, LLM projects  
 
-### 📈 Data Science & Analytics
-- [**Sales_Analysis**](https://github.com/nikhilScripts/Sales_Analysis) – Jupyter notebook for analyzing sales data  
-- [**Stock_Prediction_ML_Dashboard**](https://github.com/nikhilScripts/Stock_Prediction_ML_Dashboard) – Interactive stock analysis dashboard
+### ☁️ Big Data & Cloud
+- [**Big_Data_ETL_Pipeline**](https://github.com/nikhilScripts/Big_Data_ETL_Pipeline) – Azure Databricks, Delta Lake, Spark Structured Streaming  
+- [**Hive_Spark_Data_Pipeline**](https://github.com/nikhilScripts/Hive_Spark_Data_Pipeline) – Data pipelines with Hive & Spark  
 
-### ☁️ Big Data & Pipelines
-- [**Big_Data_ETL_Pipeline**](https://github.com/nikhilScripts/Big_Data_ETL_Pipeline) – Big Data pipeline implementation  
-- [**Hive_Spark_Data_Pipeline**](https://github.com/nikhilScripts/Hive_Spark_Data_Pipeline) – Data pipeline with Hive & Spark
-
-### 🩺 Computer Vision
-- [**brain_tumor_classification**](https://github.com/nikhilScripts/brain_tumor_classification) – Brain tumor classification with CNNs  
+### 📊 Analytics & Dashboards
+- [**Sales_Analysis**](https://github.com/nikhilScripts/Sales_Analysis) – Power BI dashboard for sales trends  
 
 ---
 
-## 🎯 Skills & Tools
-- **Languages**: Python, SQL, JavaScript  
-- **Libraries**: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, PyTorch, TensorFlow  
-- **Tools**: Git, Docker, Apache Spark, Hive, Jupyter, Colab  
-- **Domains**: Machine Learning, Deep Learning, Computer Vision, NLP, Data Engineering
-
----
-
-## 🔗 Connect with Me
+## 📫 Connect with Me
 <p align="center">
-  <a href="https://github.com/nikhilScripts"><img src="https://img.shields.io/badge/GitHub-nikhilScripts-black?style=for-the-badge&logo=github"/></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Nikhil-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.linkedin.com/in/nikhilscripts"><img src="https://img.shields.io/badge/LinkedIn-Nikhil-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="mailto:n4nikhil51@gmail.com"><img src="https://img.shields.io/badge/Email-n4nikhil51%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/nikhilScripts"><img src="https://img.shields.io/badge/GitHub-nikhilScripts-black?style=for-the-badge&logo=github"></a>
 </p>
-
----
-
-⭐ *This profile page is powered by my real project work — check out the repositories above to explore full code and documentation!*
