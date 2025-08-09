@@ -20,7 +20,7 @@ I build end-to-end ML and data systems — from data engineering and ETL to mode
 
 | **Machine Learning & DL** | **Data Engineering & Big Data** | **Cloud & MLOps** |
 |---|---|---|
-| ![python](https://skillicons.dev/icons?i=python) **Python**  &nbsp; ![pytorch](https://skillicons.dev/icons?i=pytorch) **PyTorch**  &nbsp; ![tf](https://skillicons.dev/icons?i=tf) **Tensorflow**  &nbsp; ![sklearn](https://skillicons.dev/icons?i=sklearn) **scikit-learn** | ![spark](https://skillicons.dev/icons?i=spark) **Spark**  &nbsp; ![databricks](https://skillicons.dev/icons?i=databricks) **Databricks**  &nbsp; ![hadoop](https://skillicons.dev/icons?i=hadoop) **Hadoop** | ![azure](https://skillicons.dev/icons?i=azure) **Azure (Databricks)**  &nbsp; ![gcp](https://skillicons.dev/icons?i=gcp) **GCP (Vertex AI)**  &nbsp; ![aws](https://skillicons.dev/icons?i=aws) **AWS**  &nbsp; Docker · GitHub Actions |
+| ![python](https://skillicons.dev/icons?i=python) **Python**  &nbsp; ![pytorch](https://skillicons.dev/icons?i=pytorch) **PyTorch**  &nbsp; ![tf](https://skillicons.dev/icons?i=tensorflow) **Tensorflow**  &nbsp; ![sklearn](https://skillicons.dev/icons?i=sklearn) **scikit-learn** | ![spark](https://skillicons.dev/icons?i=spark) **Spark**  &nbsp; ![databricks](https://skillicons.dev/icons?i=databricks) **Databricks**  &nbsp; ![hadoop](https://skillicons.dev/icons?i=hadoop) **Hadoop** | ![azure](https://skillicons.dev/icons?i=azure) **Azure (Databricks)**  &nbsp; ![gcp](https://skillicons.dev/icons?i=gcp) **GCP (Vertex AI)**  &nbsp; ![aws](https://skillicons.dev/icons?i=aws) **AWS**  &nbsp; Docker · GitHub Actions |
 
 | **Full-stack & Tools** | **Data & Analysis** | **LLMs & RAG** |
 |---|---|---|
