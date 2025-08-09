@@ -1,68 +1,95 @@
 <h1 align="center">Hi, I'm Nikhil Kumar Gupta 👋</h1>
 <p align="center">
-🎓 4th year B.E. Information Technology @ UIET PU • AI/ML & Data Engineering Enthusiast  
+🎓 4th year B.E. (Information Technology) @ UIET PU • AI/ML & Data Engineering Enthusiast  
 </p>
 
 ---
 
 ## 📊 GitHub Insights
 <p align="center">
-  <!-- stable stats & activity graph -->
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilScripts&show_icons=true&theme=radical" height="160" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilScripts&show_icons=true&theme=radical" height="140" alt="GitHub stats"/>
   &nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilScripts&theme=react-dark&hide_border=true" height="160" alt="Activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilScripts&theme=react-dark&hide_border=true" height="140" alt="Activity graph"/>
 </p>
 
 ---
 
-## 🐍 Contributions Snake
-<p align="center">
-  <!-- raw URL to the generated SVG (adjust repo/branch if needed) -->
-  <img src="https://raw.githubusercontent.com/nikhilScripts/nikhilScripts/main/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
-</p>
-
-> If the snake doesn't render: make sure the file `output/github-contribution-grid-snake.svg` exists in **this** repo and branch (`main`). If you put the SVG in a different repo (e.g., `Machine-learning`), update the raw URL accordingly.
+## 🧭 About
+Passionate about building scalable data pipelines and ML systems. I work across the ML lifecycle — data engineering, modeling, deployment and LLM-based apps (RAG / LangChain). I enjoy turning datasets into production-ready solutions.
 
 ---
 
-## 🚀 Skills & Tools (visual)
+## ⚡ Core Skills (ordered & grouped)
+
+<!-- Top-level single-line icons -->
 <p align="center">
-<!-- primary icons (skillicons.dev) -->
-<img src="https://skillicons.dev/icons?i=python,cpp,sql,pytorch,tensorflow,sklearn,pandas,numpy,flask,react,nodejs,mongodb,git,docker" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,sql,js" alt="languages" />
 </p>
 
-<p align="center">
-<!-- cloud & tooling -->
-<img src="https://skillicons.dev/icons?i=azure,gcp,aws,databricks,linux,jupyter,postman,vscode" alt="cloud & tooling" />
-</p>
+<!-- Structured skill grid -->
+<table align="center">
+  <tr>
+    <td align="left" valign="top"><strong>Machine Learning & Deep Learning</strong><br>
+      <img src="https://skillicons.dev/icons?i=pytorch,tf,sklearn" alt="ml" /><br>
+      PyTorch · TensorFlow · scikit-learn · Model eval (ROC, AUC, F1) · Hyperparam tuning
+    </td>
+    <td align="left" valign="top"><strong>Data Engineering & Big Data</strong><br>
+      <img src="https://skillicons.dev/icons?i=spark,databricks,hadoop" alt="bigdata" /><br>
+      Apache Spark · Delta Lake · Databricks · Hive · ETL design · Streaming (Structured Streaming)
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><strong>Cloud & MLOps</strong><br>
+      <img src="https://skillicons.dev/icons?i=azure,gcp,aws" alt="cloud" /><br>
+      Azure (Databricks) · GCP (Vertex AI) · AWS basics · Docker · GitHub Actions · Deployment
+    </td>
+    <td align="left" valign="top"><strong>Full-stack & Tools</strong><br>
+      <img src="https://skillicons.dev/icons?i=flask,react,nodejs,mongodb" alt="fullstack" /><br>
+      Flask · React Native · Node.js · MongoDB · Power BI · Jupyter / Colab
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top"><strong>Data & Analysis</strong><br>
+      <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn" alt="data" /><br>
+      Pandas · NumPy · Visualization · Feature engineering · Time series (LSTM)
+    </td>
+    <td align="left" valign="top"><strong>Specializations & LLM Tools</strong><br>
+      <img src="https://skillicons.dev/icons?i=openai" alt="llm" /><br>
+      RAG (Retrieval-Augmented Generation) · LangChain · LangGraph · LLM agents · Knowledge graphs · MCP concepts
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-<!-- custom badges for special techs -->
-<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-00AEEF?style=for-the-badge&logo=apacheairflow" alt="RAG"/>
-<img src="https://img.shields.io/badge/LangChain-Large%20Language%20Chain-0F172A?style=for-the-badge&logo=ghost" alt="LangChain"/>
-<img src="https://img.shields.io/badge/LangGraph-Knowledge%20Graphs-00C4CC?style=for-the-badge&logo=neo4j" alt="LangGraph"/>
-<img src="https://img.shields.io/badge/MCP-Model%20&%20Concept%20Pipelines-7C3AED?style=for-the-badge" alt="MCP"/>
-</p>
+---
+
+## 🔁 Skills — sequential list (for ATS / quick-scan)
+**Languages:** Python · C++ · SQL · JavaScript  
+**ML / DL:** PyTorch · TensorFlow · scikit-learn · LSTM · CNN · Transfer Learning  
+**Data Engineering:** Spark · Databricks · Delta Lake · Hive · ETL · Streaming  
+**Cloud:** Azure (Databricks) · GCP (Vertex AI) · AWS (fundamentals)  
+**MLOps / Dev Tools:** Docker · Git · GitHub Actions · Streamlit · Flask  
+**Datastores / Infra:** MongoDB · SQLite · SQL Server  
+**Visualization:** Matplotlib · Seaborn · Power BI  
+**LLMs & RAG:** LangChain · LangGraph · Retrieval pipelines · Prompting · Agentic flows
 
 ---
 
 ## 💼 Internships
-**AI Intern — Grazitti Interactive** (Jun 2025 – Jul 2025)  
-- Built a Streamlit AI interview platform with speech I/O, GPT scoring and multi-round flows.  
-- Integrated SQLite candidate tracking and Gmail API for automated communication.
+- **AI Intern — Grazitti Interactive** (Jun 2025 – Jul 2025)  
+  Built a Streamlit-based AI interview platform (speech I/O, GPT scoring, SQLite candidate tracking, Gmail automation).
 
-**Full Stack Intern — Tata Motors** (Jun 2024 – Jul 2024)  
-- Developed a task management system for 200+ users with role-based access and real-time chat.
+- **Full Stack Intern — Tata Motors** (Jun 2024 – Jul 2024)  
+  Built a task-management system with role-based access and real-time chat for 200+ users.
 
 ---
 
 ## 🎓 Education
-- **B.E., Information Technology** — UIET PU (2022–2026)
+- **B.E., Information Technology** — UIET PU (2022–2026) — CGPA: 7.06/10
 
 ---
 
 ## 🏆 Achievements
-- 🥉 Bronze Medal — Men’s Doubles, 37th Chandigarh State Table Tennis Championships (2024)  
+- 🥉 Bronze — Men’s Doubles, 37th Chandigarh State Table Tennis Championships (2024)  
 - 🎓 Shraman Foundation Scholar (Top 24 students, 2023–2025)
 
 ---
@@ -70,36 +97,27 @@
 ## 📜 Certifications
 - McKinsey Forward Program — Leadership & problem solving  
 - AWS Solutions Architecture Job Simulation  
-- Google Cloud — Build AI Apps with Gemini & Imagen (Vertex AI / RAG / Generative AI)
+- Google Cloud — Build AI Apps with Gemini & Imagen (Vertex AI & RAG)
 
 ---
 
-## 📂 Featured Projects
-
-### 🧠 AI/ML & Data Science
-- [Machine-learning](https://github.com/nikhilScripts/Machine-learning) — Heart Disease, Loan, Big Mart, Breast Cancer notebooks  
-- [Stock_Prediction_ML_Dashboard](https://github.com/nikhilScripts/Stock_Prediction_ML_Dashboard) — SVR, LSTM, RandomForest, ElasticNet models + dashboard  
-- [Image-Segmentation](https://github.com/nikhilScripts/Image-Segmentation) — segmentation models in PyTorch  
-- [GenerativeAI](https://github.com/nikhilScripts/GenerativeAI) — RAG, LangChain experiments
-
-### ☁️ Big Data & Cloud
-- [Big_Data_ETL_Pipeline](https://github.com/nikhilScripts/Big_Data_ETL_Pipeline) — Azure Databricks, Delta Lake, Spark Structured Streaming  
-- [Hive_Spark_Data_Pipeline](https://github.com/nikhilScripts/Hive_Spark_Data_Pipeline) — ETL pipelines with Hive & Spark
-
-### 📊 Analytics & Dashboards
-- [Sales_Analysis](https://github.com/nikhilScripts/Sales_Analysis) — Power BI dashboards and data analysis notebooks
+## 📂 Selected Projects (click to open)
+- **Machine-learning** — Heart Disease, Loan Prediction, Big Mart Sales, Breast Cancer.  
+  `https://github.com/nikhilScripts/Machine-learning`  
+- **Big_Data_ETL_Pipeline** — Azure Databricks, Delta Lake, streaming ETL.  
+  `https://github.com/nikhilScripts/Big_Data_ETL_Pipeline`  
+- **GenerativeAI / coffee_shop_customer_chatbot** — RAG + LangChain + React Native.  
+  `https://github.com/nikhilScripts/GenerativeAI` · `https://github.com/nikhilScripts/coffee_shop_customer_chatbot`
 
 ---
 
-## 🎮 Play: Snake
-I’ve added a lightweight Snake game in this repo (host with GitHub Pages from `/docs`):  
-`https://nikhilScripts.github.io/Machine-learning/snake/`  
-(If you place `snake/index.html` in `docs/` of the **Machine-learning** repo and enable Pages, that URL will work.)
+## 📫 Contact
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikhilscripts"><img src="https://img.shields.io/badge/LinkedIn-Nikhil-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:n4nikhil51@gmail.com"><img src="https://img.shields.io/badge/Email-n4nikhil51%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="https://github.com/nikhilScripts"><img src="https://img.shields.io/badge/GitHub-nikhilScripts-black?style=for-the-badge&logo=github"></a>
+</p>
 
 ---
 
-## 📈 Add/Update Graphs (how-to)
-1. Save your model charts to `assets/graphs/` (PNG files).  
-2. Reference them in this README, for example:
-   ```markdown
-   ![Model performance](assets/graphs/model_performance.png)
+*Made with ❤ — Nikhil Kumar Gupta*
