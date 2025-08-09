@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nikhil Kumar Gupta 👋</h1>
 <p align="center">
-🎓 B.E. Information Technology @ UIET PU | 💡 AI/ML & Data Engineering Enthusiast  
+🎓 4th year B.E. Information Technology @ UIET PU | 💡 AI/ML & Data Engineering Enthusiast  
 </p>
 
 ---
@@ -34,8 +34,7 @@
 ---
 
 ## 💼 Internships
-<details>
-<summary>Click to expand</summary>
+
 
 **AI Intern — Grazitti Interactive (Jun 2025 – Jul 2025)**  
 - Built Streamlit AI interview platform with speech I/O, GPT scoring, multi-round flows  
@@ -48,8 +47,7 @@
 ---
 
 ## 🎓 Education
-- **B.E. Information Technology** — UIET PU (2022–2026) | CGPA: 7.06/10  
-- **12th CBSE** — 76.8% | **10th CBSE** — 91.6%
+- **B.E. Information Technology** — UIET PU (2022–2026)
 
 ---
 
