@@ -61,7 +61,3 @@ Certs: McKinsey Forward Program · AWS Solutions Architecture Simulation · Goog
 
 ---
 
-*If you'd like, I can now:*  
-- produce a **compact PNG** of this skills grid (so it looks identical on all devices), or  
-- create a **pure-markdown alternate layout** with badges only (smaller height), or  
-- auto-insert this file into your profile repo (I can provide exact git commands). Which do you want next?
