@@ -24,11 +24,7 @@
 
 ## 🚀 Skills & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,sql,pytorch,tensorflow,sklearn,flask,react,nodejs,mongodb,git,docker,azure,gcp,aws,vscode,postman" /><br>
-<img src="https://img.shields.io/badge/RAG-%230077B5.svg?&style=for-the-badge&logo=semanticweb&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-%23009639.svg?&style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-%2300ADD8.svg?&style=for-the-badge&logo=graph&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-%23007ACC.svg?&style=for-the-badge&logo=protocols&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,sql,pytorch,tensorflow,langchain,langgraph,rag,sklearn,flask,react,nodejs,mongodb,git,docker,azure,gcp,aws,vscode,postman" /><br>
 </p>
 
 ---
